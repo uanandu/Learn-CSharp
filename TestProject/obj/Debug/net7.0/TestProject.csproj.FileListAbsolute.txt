@@ -12,3 +12,10 @@ D:\Learn C#\CsharpProjects\TestProject\obj\Debug\net7.0\refint\TestProject.dll
 D:\Learn C#\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.pdb
 D:\Learn C#\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
 D:\Learn C#\CsharpProjects\TestProject\obj\Debug\net7.0\ref\TestProject.dll
+D:\Learn C#\Learn-CSharp\TestProject\obj\Debug\net7.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn C#\Learn-CSharp\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfoInputs.cache
+D:\Learn C#\Learn-CSharp\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfo.cs
+D:\Learn C#\Learn-CSharp\TestProject\obj\Debug\net7.0\TestProject.csproj.CoreCompileInputs.cache
+D:\Learn C#\Learn-CSharp\TestProject\obj\Debug\net7.0\TestProject.dll
+D:\Learn C#\Learn-CSharp\TestProject\obj\Debug\net7.0\refint\TestProject.dll
+D:\Learn C#\Learn-CSharp\TestProject\obj\Debug\net7.0\TestProject.pdb

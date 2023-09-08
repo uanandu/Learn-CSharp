@@ -1,0 +1,14 @@
+D:\Learn C#\Learn-CSharp\Conditionaltest\bin\Debug\net7.0\Conditionaltest.exe
+D:\Learn C#\Learn-CSharp\Conditionaltest\bin\Debug\net7.0\Conditionaltest.deps.json
+D:\Learn C#\Learn-CSharp\Conditionaltest\bin\Debug\net7.0\Conditionaltest.runtimeconfig.json
+D:\Learn C#\Learn-CSharp\Conditionaltest\bin\Debug\net7.0\Conditionaltest.dll
+D:\Learn C#\Learn-CSharp\Conditionaltest\bin\Debug\net7.0\Conditionaltest.pdb
+D:\Learn C#\Learn-CSharp\Conditionaltest\obj\Debug\net7.0\Conditionaltest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn C#\Learn-CSharp\Conditionaltest\obj\Debug\net7.0\Conditionaltest.AssemblyInfoInputs.cache
+D:\Learn C#\Learn-CSharp\Conditionaltest\obj\Debug\net7.0\Conditionaltest.AssemblyInfo.cs
+D:\Learn C#\Learn-CSharp\Conditionaltest\obj\Debug\net7.0\Conditionaltest.csproj.CoreCompileInputs.cache
+D:\Learn C#\Learn-CSharp\Conditionaltest\obj\Debug\net7.0\Conditionaltest.dll
+D:\Learn C#\Learn-CSharp\Conditionaltest\obj\Debug\net7.0\refint\Conditionaltest.dll
+D:\Learn C#\Learn-CSharp\Conditionaltest\obj\Debug\net7.0\Conditionaltest.pdb
+D:\Learn C#\Learn-CSharp\Conditionaltest\obj\Debug\net7.0\Conditionaltest.genruntimeconfig.cache
+D:\Learn C#\Learn-CSharp\Conditionaltest\obj\Debug\net7.0\ref\Conditionaltest.dll
