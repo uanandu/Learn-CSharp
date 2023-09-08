@@ -1,0 +1,14 @@
+D:\Learn C#\Learn-CSharp\Arraytest\bin\Debug\net7.0\Arraytest.exe
+D:\Learn C#\Learn-CSharp\Arraytest\bin\Debug\net7.0\Arraytest.deps.json
+D:\Learn C#\Learn-CSharp\Arraytest\bin\Debug\net7.0\Arraytest.runtimeconfig.json
+D:\Learn C#\Learn-CSharp\Arraytest\bin\Debug\net7.0\Arraytest.dll
+D:\Learn C#\Learn-CSharp\Arraytest\bin\Debug\net7.0\Arraytest.pdb
+D:\Learn C#\Learn-CSharp\Arraytest\obj\Debug\net7.0\Arraytest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn C#\Learn-CSharp\Arraytest\obj\Debug\net7.0\Arraytest.AssemblyInfoInputs.cache
+D:\Learn C#\Learn-CSharp\Arraytest\obj\Debug\net7.0\Arraytest.AssemblyInfo.cs
+D:\Learn C#\Learn-CSharp\Arraytest\obj\Debug\net7.0\Arraytest.csproj.CoreCompileInputs.cache
+D:\Learn C#\Learn-CSharp\Arraytest\obj\Debug\net7.0\Arraytest.dll
+D:\Learn C#\Learn-CSharp\Arraytest\obj\Debug\net7.0\refint\Arraytest.dll
+D:\Learn C#\Learn-CSharp\Arraytest\obj\Debug\net7.0\Arraytest.pdb
+D:\Learn C#\Learn-CSharp\Arraytest\obj\Debug\net7.0\Arraytest.genruntimeconfig.cache
+D:\Learn C#\Learn-CSharp\Arraytest\obj\Debug\net7.0\ref\Arraytest.dll

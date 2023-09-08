@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Learn C#\\Learn-CSharp\\TestProject\\TestProject.csproj": {}
+    "D:\\Learn C#\\Learn-CSharp\\Arraytest\\Arraytest.csproj": {}
   },
   "projects": {
-    "d:\\Learn C#\\Learn-CSharp\\TestProject\\TestProject.csproj": {
+    "D:\\Learn C#\\Learn-CSharp\\Arraytest\\Arraytest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Learn C#\\Learn-CSharp\\TestProject\\TestProject.csproj",
-        "projectName": "TestProject",
-        "projectPath": "d:\\Learn C#\\Learn-CSharp\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "D:\\Learn C#\\Learn-CSharp\\Arraytest\\Arraytest.csproj",
+        "projectName": "Arraytest",
+        "projectPath": "D:\\Learn C#\\Learn-CSharp\\Arraytest\\Arraytest.csproj",
         "packagesPath": "C:\\Users\\anand\\.nuget\\packages\\",
-        "outputPath": "d:\\Learn C#\\Learn-CSharp\\TestProject\\obj\\",
+        "outputPath": "D:\\Learn C#\\Learn-CSharp\\Arraytest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anand\\AppData\\Roaming\\NuGet\\NuGet.Config"
