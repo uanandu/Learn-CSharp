@@ -1,0 +1,14 @@
+D:\Learn C#\Learn-CSharp\Foreach-Project\obj\Debug\net7.0\Foreach-Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn C#\Learn-CSharp\Foreach-Project\obj\Debug\net7.0\Foreach-Project.AssemblyInfoInputs.cache
+D:\Learn C#\Learn-CSharp\Foreach-Project\obj\Debug\net7.0\Foreach-Project.AssemblyInfo.cs
+D:\Learn C#\Learn-CSharp\Foreach-Project\obj\Debug\net7.0\Foreach-Project.csproj.CoreCompileInputs.cache
+D:\Learn C#\Learn-CSharp\Foreach-Project\bin\Debug\net7.0\Foreach-Project.exe
+D:\Learn C#\Learn-CSharp\Foreach-Project\bin\Debug\net7.0\Foreach-Project.deps.json
+D:\Learn C#\Learn-CSharp\Foreach-Project\bin\Debug\net7.0\Foreach-Project.runtimeconfig.json
+D:\Learn C#\Learn-CSharp\Foreach-Project\bin\Debug\net7.0\Foreach-Project.dll
+D:\Learn C#\Learn-CSharp\Foreach-Project\bin\Debug\net7.0\Foreach-Project.pdb
+D:\Learn C#\Learn-CSharp\Foreach-Project\obj\Debug\net7.0\Foreach-Project.dll
+D:\Learn C#\Learn-CSharp\Foreach-Project\obj\Debug\net7.0\refint\Foreach-Project.dll
+D:\Learn C#\Learn-CSharp\Foreach-Project\obj\Debug\net7.0\Foreach-Project.pdb
+D:\Learn C#\Learn-CSharp\Foreach-Project\obj\Debug\net7.0\Foreach-Project.genruntimeconfig.cache
+D:\Learn C#\Learn-CSharp\Foreach-Project\obj\Debug\net7.0\ref\Foreach-Project.dll
