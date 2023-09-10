@@ -1,0 +1,14 @@
+D:\Learn C#\Learn-CSharp\BooleanTest\obj\Debug\net7.0\BooleanTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn C#\Learn-CSharp\BooleanTest\obj\Debug\net7.0\BooleanTest.AssemblyInfoInputs.cache
+D:\Learn C#\Learn-CSharp\BooleanTest\obj\Debug\net7.0\BooleanTest.AssemblyInfo.cs
+D:\Learn C#\Learn-CSharp\BooleanTest\obj\Debug\net7.0\BooleanTest.csproj.CoreCompileInputs.cache
+D:\Learn C#\Learn-CSharp\BooleanTest\bin\Debug\net7.0\BooleanTest.exe
+D:\Learn C#\Learn-CSharp\BooleanTest\bin\Debug\net7.0\BooleanTest.deps.json
+D:\Learn C#\Learn-CSharp\BooleanTest\bin\Debug\net7.0\BooleanTest.runtimeconfig.json
+D:\Learn C#\Learn-CSharp\BooleanTest\bin\Debug\net7.0\BooleanTest.dll
+D:\Learn C#\Learn-CSharp\BooleanTest\bin\Debug\net7.0\BooleanTest.pdb
+D:\Learn C#\Learn-CSharp\BooleanTest\obj\Debug\net7.0\BooleanTest.dll
+D:\Learn C#\Learn-CSharp\BooleanTest\obj\Debug\net7.0\refint\BooleanTest.dll
+D:\Learn C#\Learn-CSharp\BooleanTest\obj\Debug\net7.0\BooleanTest.pdb
+D:\Learn C#\Learn-CSharp\BooleanTest\obj\Debug\net7.0\BooleanTest.genruntimeconfig.cache
+D:\Learn C#\Learn-CSharp\BooleanTest\obj\Debug\net7.0\ref\BooleanTest.dll
