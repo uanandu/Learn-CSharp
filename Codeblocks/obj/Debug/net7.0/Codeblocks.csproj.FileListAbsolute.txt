@@ -1,0 +1,14 @@
+D:\Learn C#\Learn-CSharp\Codeblocks\obj\Debug\net7.0\Codeblocks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn C#\Learn-CSharp\Codeblocks\obj\Debug\net7.0\Codeblocks.AssemblyInfoInputs.cache
+D:\Learn C#\Learn-CSharp\Codeblocks\obj\Debug\net7.0\Codeblocks.AssemblyInfo.cs
+D:\Learn C#\Learn-CSharp\Codeblocks\obj\Debug\net7.0\Codeblocks.csproj.CoreCompileInputs.cache
+D:\Learn C#\Learn-CSharp\Codeblocks\bin\Debug\net7.0\Codeblocks.exe
+D:\Learn C#\Learn-CSharp\Codeblocks\bin\Debug\net7.0\Codeblocks.deps.json
+D:\Learn C#\Learn-CSharp\Codeblocks\bin\Debug\net7.0\Codeblocks.runtimeconfig.json
+D:\Learn C#\Learn-CSharp\Codeblocks\bin\Debug\net7.0\Codeblocks.dll
+D:\Learn C#\Learn-CSharp\Codeblocks\bin\Debug\net7.0\Codeblocks.pdb
+D:\Learn C#\Learn-CSharp\Codeblocks\obj\Debug\net7.0\Codeblocks.dll
+D:\Learn C#\Learn-CSharp\Codeblocks\obj\Debug\net7.0\refint\Codeblocks.dll
+D:\Learn C#\Learn-CSharp\Codeblocks\obj\Debug\net7.0\Codeblocks.pdb
+D:\Learn C#\Learn-CSharp\Codeblocks\obj\Debug\net7.0\Codeblocks.genruntimeconfig.cache
+D:\Learn C#\Learn-CSharp\Codeblocks\obj\Debug\net7.0\ref\Codeblocks.dll
