@@ -1,0 +1,14 @@
+D:\Learn C#\Learn-CSharp\Part#4-IntegralTypes\bin\Debug\net7.0\Part#4-IntegralTypes.exe
+D:\Learn C#\Learn-CSharp\Part#4-IntegralTypes\bin\Debug\net7.0\Part#4-IntegralTypes.deps.json
+D:\Learn C#\Learn-CSharp\Part#4-IntegralTypes\bin\Debug\net7.0\Part#4-IntegralTypes.runtimeconfig.json
+D:\Learn C#\Learn-CSharp\Part#4-IntegralTypes\bin\Debug\net7.0\Part#4-IntegralTypes.dll
+D:\Learn C#\Learn-CSharp\Part#4-IntegralTypes\bin\Debug\net7.0\Part#4-IntegralTypes.pdb
+D:\Learn C#\Learn-CSharp\Part#4-IntegralTypes\obj\Debug\net7.0\Part#4-IntegralTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn C#\Learn-CSharp\Part#4-IntegralTypes\obj\Debug\net7.0\Part#4-IntegralTypes.AssemblyInfoInputs.cache
+D:\Learn C#\Learn-CSharp\Part#4-IntegralTypes\obj\Debug\net7.0\Part#4-IntegralTypes.AssemblyInfo.cs
+D:\Learn C#\Learn-CSharp\Part#4-IntegralTypes\obj\Debug\net7.0\Part#4-IntegralTypes.csproj.CoreCompileInputs.cache
+D:\Learn C#\Learn-CSharp\Part#4-IntegralTypes\obj\Debug\net7.0\Part#4-IntegralTypes.dll
+D:\Learn C#\Learn-CSharp\Part#4-IntegralTypes\obj\Debug\net7.0\refint\Part#4-IntegralTypes.dll
+D:\Learn C#\Learn-CSharp\Part#4-IntegralTypes\obj\Debug\net7.0\Part#4-IntegralTypes.pdb
+D:\Learn C#\Learn-CSharp\Part#4-IntegralTypes\obj\Debug\net7.0\Part#4-IntegralTypes.genruntimeconfig.cache
+D:\Learn C#\Learn-CSharp\Part#4-IntegralTypes\obj\Debug\net7.0\ref\Part#4-IntegralTypes.dll
