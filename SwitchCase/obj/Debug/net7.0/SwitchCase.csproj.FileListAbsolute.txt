@@ -1,0 +1,14 @@
+D:\Learn C#\Learn-CSharp\SwitchCase\obj\Debug\net7.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn C#\Learn-CSharp\SwitchCase\obj\Debug\net7.0\SwitchCase.AssemblyInfoInputs.cache
+D:\Learn C#\Learn-CSharp\SwitchCase\obj\Debug\net7.0\SwitchCase.AssemblyInfo.cs
+D:\Learn C#\Learn-CSharp\SwitchCase\obj\Debug\net7.0\SwitchCase.csproj.CoreCompileInputs.cache
+D:\Learn C#\Learn-CSharp\SwitchCase\bin\Debug\net7.0\SwitchCase.exe
+D:\Learn C#\Learn-CSharp\SwitchCase\bin\Debug\net7.0\SwitchCase.deps.json
+D:\Learn C#\Learn-CSharp\SwitchCase\bin\Debug\net7.0\SwitchCase.runtimeconfig.json
+D:\Learn C#\Learn-CSharp\SwitchCase\bin\Debug\net7.0\SwitchCase.dll
+D:\Learn C#\Learn-CSharp\SwitchCase\bin\Debug\net7.0\SwitchCase.pdb
+D:\Learn C#\Learn-CSharp\SwitchCase\obj\Debug\net7.0\SwitchCase.dll
+D:\Learn C#\Learn-CSharp\SwitchCase\obj\Debug\net7.0\refint\SwitchCase.dll
+D:\Learn C#\Learn-CSharp\SwitchCase\obj\Debug\net7.0\SwitchCase.pdb
+D:\Learn C#\Learn-CSharp\SwitchCase\obj\Debug\net7.0\SwitchCase.genruntimeconfig.cache
+D:\Learn C#\Learn-CSharp\SwitchCase\obj\Debug\net7.0\ref\SwitchCase.dll
