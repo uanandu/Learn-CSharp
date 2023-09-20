@@ -1,0 +1,14 @@
+D:\Learn C#\Learn-CSharp\whileIterationLoop\bin\Debug\net7.0\whileIterationLoop.exe
+D:\Learn C#\Learn-CSharp\whileIterationLoop\bin\Debug\net7.0\whileIterationLoop.deps.json
+D:\Learn C#\Learn-CSharp\whileIterationLoop\bin\Debug\net7.0\whileIterationLoop.runtimeconfig.json
+D:\Learn C#\Learn-CSharp\whileIterationLoop\bin\Debug\net7.0\whileIterationLoop.dll
+D:\Learn C#\Learn-CSharp\whileIterationLoop\bin\Debug\net7.0\whileIterationLoop.pdb
+D:\Learn C#\Learn-CSharp\whileIterationLoop\obj\Debug\net7.0\whileIterationLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn C#\Learn-CSharp\whileIterationLoop\obj\Debug\net7.0\whileIterationLoop.AssemblyInfoInputs.cache
+D:\Learn C#\Learn-CSharp\whileIterationLoop\obj\Debug\net7.0\whileIterationLoop.AssemblyInfo.cs
+D:\Learn C#\Learn-CSharp\whileIterationLoop\obj\Debug\net7.0\whileIterationLoop.csproj.CoreCompileInputs.cache
+D:\Learn C#\Learn-CSharp\whileIterationLoop\obj\Debug\net7.0\whileIterationLoop.dll
+D:\Learn C#\Learn-CSharp\whileIterationLoop\obj\Debug\net7.0\refint\whileIterationLoop.dll
+D:\Learn C#\Learn-CSharp\whileIterationLoop\obj\Debug\net7.0\whileIterationLoop.pdb
+D:\Learn C#\Learn-CSharp\whileIterationLoop\obj\Debug\net7.0\whileIterationLoop.genruntimeconfig.cache
+D:\Learn C#\Learn-CSharp\whileIterationLoop\obj\Debug\net7.0\ref\whileIterationLoop.dll
