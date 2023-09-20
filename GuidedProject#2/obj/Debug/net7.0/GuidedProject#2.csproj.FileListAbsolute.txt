@@ -1,0 +1,14 @@
+D:\Learn C#\Learn-CSharp\GuidedProject#2\obj\Debug\net7.0\GuidedProject#2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn C#\Learn-CSharp\GuidedProject#2\obj\Debug\net7.0\GuidedProject#2.AssemblyInfoInputs.cache
+D:\Learn C#\Learn-CSharp\GuidedProject#2\obj\Debug\net7.0\GuidedProject#2.AssemblyInfo.cs
+D:\Learn C#\Learn-CSharp\GuidedProject#2\obj\Debug\net7.0\GuidedProject#2.csproj.CoreCompileInputs.cache
+D:\Learn C#\Learn-CSharp\GuidedProject#2\bin\Debug\net7.0\GuidedProject#2.exe
+D:\Learn C#\Learn-CSharp\GuidedProject#2\bin\Debug\net7.0\GuidedProject#2.deps.json
+D:\Learn C#\Learn-CSharp\GuidedProject#2\bin\Debug\net7.0\GuidedProject#2.runtimeconfig.json
+D:\Learn C#\Learn-CSharp\GuidedProject#2\bin\Debug\net7.0\GuidedProject#2.dll
+D:\Learn C#\Learn-CSharp\GuidedProject#2\bin\Debug\net7.0\GuidedProject#2.pdb
+D:\Learn C#\Learn-CSharp\GuidedProject#2\obj\Debug\net7.0\GuidedProject#2.dll
+D:\Learn C#\Learn-CSharp\GuidedProject#2\obj\Debug\net7.0\refint\GuidedProject#2.dll
+D:\Learn C#\Learn-CSharp\GuidedProject#2\obj\Debug\net7.0\GuidedProject#2.pdb
+D:\Learn C#\Learn-CSharp\GuidedProject#2\obj\Debug\net7.0\GuidedProject#2.genruntimeconfig.cache
+D:\Learn C#\Learn-CSharp\GuidedProject#2\obj\Debug\net7.0\ref\GuidedProject#2.dll
